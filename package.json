@@ -1,0 +1,23 @@
+{
+  "name": "hectopress-theme",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectogonstudio/hectopress-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectogonstudio/hectopress-theme/issues"
+  },
+  "homepage": "https://github.com/hectogonstudio/hectopress-theme#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
