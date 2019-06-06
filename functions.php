@@ -93,3 +93,6 @@ add_action( 'wp_enqueue_scripts', 'hectopress_scripts' );
 
 // Require extra functions
 // require get_template_directory() . '/inc/custom-header.php';
+
+// Remove admin bar
+add_filter('show_admin_bar', '__return_false');
